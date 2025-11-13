@@ -1,0 +1,5 @@
+num1=int(input("enter 1st value : "))
+num2=int(input("enter 2nd value; "))
+num3=int(input("enter 3rd value; "))
+g=max(num1,num2,num3)
+print("the greatest value = ",g)
